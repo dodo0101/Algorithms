@@ -1,7 +1,7 @@
 package com.algorithms.part1;
 
 public class ComposedString {
-    
+
     /**
      * Method modifies string if its modified size smaller
      * @param s string to modify
